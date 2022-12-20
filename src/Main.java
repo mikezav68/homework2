@@ -58,6 +58,5 @@ public class Main {
         workers = workers + 94;
         allTime = workers * workerTime;
         System.out.println("Если в компании работает " + workers + " чел, то всего " + allTime + " часов работы может быть поделено между сотрудниками");
-
     }
 }
